@@ -16,6 +16,7 @@ Die Erweiterung ist separat als Installationspaket vorbereitet. Diese Website is
 
 ## Herkunft und Lizenzen
 
+Website: https://dealkern.com
 Quelle: https://dealkern.com/daten/investorenmarkt-2026.csv
 Kontext: https://dealkern.com/marktreport-2026
 Herausgeber: DealKern-Redaktion, Creststone Advisory LLC, kommerzieller Anbieter.

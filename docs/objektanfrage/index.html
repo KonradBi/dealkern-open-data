@@ -1,32 +1,13 @@
 <!doctype html>
-<html lang="de"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Objektanfrage vorbereiten | DealKern</title><link rel="stylesheet" href="popup.css"></head>
-<body>
-<header><a class="brand" href="https://dealkern.com/?utm_source=objektanfrage&utm_medium=referral" target="_blank" rel="noopener noreferrer">DealKern<span>Objektanfrage</span></a></header>
-<main>
-  <section aria-labelledby="title">
-    <h1 id="title">Anfrage vorbereiten</h1>
-    <p class="intro">Eckdaten eingeben, Text kopieren, selbst versenden.</p>
-    <form id="brief-form">
-      <div class="fields">
-        <label>Objektart<select name="kind" required><option value="Wohnen">Wohnimmobilie</option value="Büro">Büroimmobilie</option><option value="Logistik">Logistikimmobilie</option><option value="Grundstück">Grundstück</option><option value="Hotel">Hotel</option><option value="Gewerbe">Gewerbeimmobilie</option></select></label>
-        <label>Ort<input name="city" required maxlength="100" autocomplete="off" placeholder="z. B. Leipzig"></label>
-        <label>Kaufpreis (€)<input name="price" type="number" min="1" step="any" required inputmode="decimal" placeholder="2300000"></label>
-        <label>Fläche (m², optional)<input name="area" type="number" min="1" step="any" inputmode="decimal"></label>
-        <label class="wide">Jahresnettokaltmiete (€, optional)<input name="rent" type="number" min="0" step="any" inputmode="decimal"></label>
-      </div>
-      <p class="local">Ihre Eingaben werden weder übertragen noch gespeichert.</p>
-      <button type="submit">Text erstellen <span aria-hidden="true">→</span></button>
-    </form>
-  </section>
-  <section class="draft" aria-labelledby="draft-title">
-    <div class="draft-head"><h2 id="draft-title">Ihr Entwurf</h2><button id="copy" class="secondary" disabled type="button">Kopieren</button></div>
-    <label class="sr-only" for="output">Anschreiben</label>
-    <textarea id="output" placeholder="Hier erscheint Ihre Anfrage. Sie können den Text anschließend bearbeiten." spellcheck="true"></textarea>
-    <p id="status" role="status" aria-live="polite"></p>
-    <p id="metrics" class="metrics" hidden></p>
-    <p class="help">Vor dem Versand prüfen: aktuelles Ankaufsprofil, passende Region und zulässiger Kontaktweg.</p>
-  </section>
-</main>
-<footer><a href="https://dealkern.com/?utm_source=objektanfrage&utm_medium=referral" target="_blank" rel="noopener noreferrer">Passende Investoren suchen ↗</a><a href="privacy.html" target="_blank" rel="noopener noreferrer">Datenschutz</a></footer>
-<script src="teaser.js"></script><script src="popup.js"></script>
-</body></html>
+<html lang="de" data-surface="web"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Objektanfrage | DealKern</title><link rel="stylesheet" href="popup.css"></head><body>
+<header class="topbar"><a class="brand" href="https://dealkern.com/?utm_source=objektanfrage&utm_medium=referral" target="_blank" rel="noopener noreferrer" aria-label="DealKern Startseite"><svg viewBox="0 0 960 196" width="148" role="img" aria-label="DealKern"><g fill="currentColor"><rect width="60" height="60" rx="9"/><rect x="68" width="60" height="60" rx="9"/><rect y="68" width="60" height="60" rx="9"/><rect x="68" y="68" width="60" height="60" rx="9"/><rect y="136" width="60" height="60" rx="9"/></g><rect x="136" width="60" height="60" rx="9" fill="#FC734D"/><text x="244" y="160" fill="currentColor" font-size="176" font-weight="600" letter-spacing="-7" font-family="Geist, sans-serif">DealKern</text></svg><small>für Makler</small></a><span class="tool-name">Objektanfrage</span></header>
+<main><section class="object" aria-labelledby="title"><h1 id="title">Objektdaten</h1><form id="brief-form"><div class="fields">
+<label>Objektart<select name="kind" required><option value="Wohnen">Wohnimmobilie</option><option value="Büro">Büroimmobilie</option><option value="Logistik">Logistikimmobilie</option><option value="Grundstück">Grundstück</option><option value="Hotel">Hotel</option><option value="Gewerbe">Gewerbeimmobilie</option></select></label>
+<label>Ort<input name="city" required maxlength="100" autocomplete="off" placeholder="z. B. Leipzig"></label>
+<label>Kaufpreis (€)<input name="price" type="number" min="1" step="any" required inputmode="decimal" placeholder="2300000"></label>
+<label>Fläche (m²)<input name="area" type="number" min="1" step="any" inputmode="decimal" placeholder="Optional"></label>
+<label class="wide">Jahresnettokaltmiete (€)<input name="rent" type="number" min="0" step="any" inputmode="decimal" placeholder="Optional"></label></div>
+<button class="cta" type="submit">Text erstellen <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><path d="M5 12h14m-6-6 6 6-6 6"/></svg></button>
+<p class="local"><svg width="13" height="15" viewBox="0 0 20 22" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="m10 2 7 3v6c0 4-7 9-7 9s-7-5-7-9V5l7-3Z"/><path d="m6.5 10 2.5 2.5 4.5-5"/></svg>Eingaben bleiben in diesem Browser.</p></form></section>
+<section class="draft" aria-labelledby="draft-title"><div class="draft-head"><h2 id="draft-title">Ihre Anfrage</h2><button id="copy" class="copy" disabled type="button"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><rect x="8" y="8" width="12" height="13" rx="2"/><path d="M16 8V5a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v9a2 2 0 0 0 2 2h3"/></svg>Kopieren</button></div><label class="sr-only" for="output">Anschreiben</label><textarea id="output" placeholder="Hier erscheint Ihr Entwurf. Sie können ihn vor dem Kopieren bearbeiten." spellcheck="true"></textarea><p id="metrics" class="metrics" hidden></p><p id="status" class="status" role="status" aria-live="polite"></p><p class="help">Ankaufsprofil und Kontaktweg vor dem Versand prüfen.</p></section></main>
+<footer><a class="site-link" href="https://dealkern.com/?utm_source=objektanfrage&utm_medium=referral" target="_blank" rel="noopener noreferrer">dealkern.com <span aria-hidden="true">↗</span></a><a href="privacy.html" target="_blank" rel="noopener noreferrer">Datenschutz</a></footer><script src="teaser.js"></script><script src="popup.js"></script></body></html>
