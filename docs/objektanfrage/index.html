@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="de"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Objektanfrage vorbereiten | DealKern</title><link rel="stylesheet" href="popup.css"></head>
+<body>
+<header><a class="brand" href="https://dealkern.com/?utm_source=objektanfrage&utm_medium=referral" target="_blank" rel="noopener noreferrer">DealKern<span>Objektanfrage</span></a></header>
+<main>
+  <section aria-labelledby="title">
+    <h1 id="title">Anfrage vorbereiten</h1>
+    <p class="intro">Eckdaten eingeben, Text kopieren, selbst versenden.</p>
+    <form id="brief-form">
+      <div class="fields">
+        <label>Objektart<select name="kind" required><option value="Wohnen">Wohnimmobilie</option value="Büro">Büroimmobilie</option><option value="Logistik">Logistikimmobilie</option><option value="Grundstück">Grundstück</option><option value="Hotel">Hotel</option><option value="Gewerbe">Gewerbeimmobilie</option></select></label>
+        <label>Ort<input name="city" required maxlength="100" autocomplete="off" placeholder="z. B. Leipzig"></label>
+        <label>Kaufpreis (€)<input name="price" type="number" min="1" step="any" required inputmode="decimal" placeholder="2300000"></label>
+        <label>Fläche (m², optional)<input name="area" type="number" min="1" step="any" inputmode="decimal"></label>
+        <label class="wide">Jahresnettokaltmiete (€, optional)<input name="rent" type="number" min="0" step="any" inputmode="decimal"></label>
+      </div>
+      <p class="local">Ihre Eingaben werden weder übertragen noch gespeichert.</p>
+      <button type="submit">Text erstellen <span aria-hidden="true">→</span></button>
+    </form>
+  </section>
+  <section class="draft" aria-labelledby="draft-title">
+    <div class="draft-head"><h2 id="draft-title">Ihr Entwurf</h2><button id="copy" class="secondary" disabled type="button">Kopieren</button></div>
+    <label class="sr-only" for="output">Anschreiben</label>
+    <textarea id="output" placeholder="Hier erscheint Ihre Anfrage. Sie können den Text anschließend bearbeiten." spellcheck="true"></textarea>
+    <p id="status" role="status" aria-live="polite"></p>
+    <p id="metrics" class="metrics" hidden></p>
+    <p class="help">Vor dem Versand prüfen: aktuelles Ankaufsprofil, passende Region und zulässiger Kontaktweg.</p>
+  </section>
+</main>
+<footer><a href="https://dealkern.com/?utm_source=objektanfrage&utm_medium=referral" target="_blank" rel="noopener noreferrer">Passende Investoren suchen ↗</a><a href="privacy.html" target="_blank" rel="noopener noreferrer">Datenschutz</a></footer>
+<script src="teaser.js"></script><script src="popup.js"></script>
+</body></html>

@@ -1,0 +1,523 @@
+{
+  "title": "Öffentlich kommunizierte Ankaufsprofile in DACH: deskriptive Bestandsauswertung Oktober 2026",
+  "publisher": "DealKern, eine Marke der Creststone Advisory LLC",
+  "publication_date": "2026-11-03",
+  "data_reference_period": "Oktober 2026, laut DealKern-Erhebungsstand",
+  "source_url": "https://dealkern.com/daten/investorenmarkt-2026.csv",
+  "source_report": "https://dealkern.com/marktreport-2026",
+  "license": "CC-BY-4.0",
+  "source_sha256": "51b239930c4a7b03d8375c07a4c2038b0b3003e88efc4121b835d1c3007466b2",
+  "total_profiles": 2693,
+  "rows": [
+    {
+      "dimension": "gesamt",
+      "kategorie": "Investoren mit Ankaufsprofil",
+      "anzahl": 2693,
+      "anteil_prozent": 100.0
+    },
+    {
+      "dimension": "gesamt",
+      "kategorie": "mit belegten Ankäufen",
+      "anzahl": 916,
+      "anteil_prozent": 34.0
+    },
+    {
+      "dimension": "gesamt",
+      "kategorie": "mit Preisspanne im Profil",
+      "anzahl": 385,
+      "anteil_prozent": 14.3
+    },
+    {
+      "dimension": "gesamt",
+      "kategorie": "mit eigener Ankaufs-Adresse",
+      "anzahl": 274,
+      "anteil_prozent": 10.2
+    },
+    {
+      "dimension": "Investorentyp",
+      "kategorie": "Wohnungsunternehmen",
+      "anzahl": 850,
+      "anteil_prozent": 31.6
+    },
+    {
+      "dimension": "Investorentyp",
+      "kategorie": "Projektentwickler",
+      "anzahl": 651,
+      "anteil_prozent": 24.2
+    },
+    {
+      "dimension": "Investorentyp",
+      "kategorie": "Institutioneller Anleger",
+      "anzahl": 314,
+      "anteil_prozent": 11.7
+    },
+    {
+      "dimension": "Investorentyp",
+      "kategorie": "Investment Manager / KVG",
+      "anzahl": 275,
+      "anteil_prozent": 10.2
+    },
+    {
+      "dimension": "Investorentyp",
+      "kategorie": "Bestandshalter",
+      "anzahl": 258,
+      "anteil_prozent": 9.6
+    },
+    {
+      "dimension": "Investorentyp",
+      "kategorie": "Investor",
+      "anzahl": 166,
+      "anteil_prozent": 6.2
+    },
+    {
+      "dimension": "Investorentyp",
+      "kategorie": "Direktankäufer",
+      "anzahl": 97,
+      "anteil_prozent": 3.6
+    },
+    {
+      "dimension": "Investorentyp",
+      "kategorie": "Immobilien-AG",
+      "anzahl": 44,
+      "anteil_prozent": 1.6
+    },
+    {
+      "dimension": "Investorentyp",
+      "kategorie": "Family Office",
+      "anzahl": 38,
+      "anteil_prozent": 1.4
+    },
+    {
+      "dimension": "Nutzungsart (Mehrfachnennung)",
+      "kategorie": "Wohnen",
+      "anzahl": 1984,
+      "anteil_prozent": 73.7
+    },
+    {
+      "dimension": "Nutzungsart (Mehrfachnennung)",
+      "kategorie": "Grundstücke/Projektentwicklung",
+      "anzahl": 713,
+      "anteil_prozent": 26.5
+    },
+    {
+      "dimension": "Nutzungsart (Mehrfachnennung)",
+      "kategorie": "Gewerbe/Unternehmensimmobilien",
+      "anzahl": 624,
+      "anteil_prozent": 23.2
+    },
+    {
+      "dimension": "Nutzungsart (Mehrfachnennung)",
+      "kategorie": "Büro",
+      "anzahl": 398,
+      "anteil_prozent": 14.8
+    },
+    {
+      "dimension": "Nutzungsart (Mehrfachnennung)",
+      "kategorie": "Mixed-Use",
+      "anzahl": 317,
+      "anteil_prozent": 11.8
+    },
+    {
+      "dimension": "Nutzungsart (Mehrfachnennung)",
+      "kategorie": "Einzelhandel",
+      "anzahl": 290,
+      "anteil_prozent": 10.8
+    },
+    {
+      "dimension": "Nutzungsart (Mehrfachnennung)",
+      "kategorie": "Logistik/Light Industrial",
+      "anzahl": 268,
+      "anteil_prozent": 10.0
+    },
+    {
+      "dimension": "Nutzungsart (Mehrfachnennung)",
+      "kategorie": "Hotel",
+      "anzahl": 203,
+      "anteil_prozent": 7.5
+    },
+    {
+      "dimension": "Nutzungsart (Mehrfachnennung)",
+      "kategorie": "Gesundheit/Pflege",
+      "anzahl": 161,
+      "anteil_prozent": 6.0
+    },
+    {
+      "dimension": "Nutzungsart (Mehrfachnennung)",
+      "kategorie": "Spezialimmobilien",
+      "anzahl": 107,
+      "anteil_prozent": 4.0
+    },
+    {
+      "dimension": "Nutzungsart (Mehrfachnennung)",
+      "kategorie": "Studentenwohnen",
+      "anzahl": 93,
+      "anteil_prozent": 3.5
+    },
+    {
+      "dimension": "Nutzungsart (Mehrfachnennung)",
+      "kategorie": "Micro-/Serviced Apartments",
+      "anzahl": 79,
+      "anteil_prozent": 2.9
+    },
+    {
+      "dimension": "Nutzungsart (Mehrfachnennung)",
+      "kategorie": "Parken",
+      "anzahl": 51,
+      "anteil_prozent": 1.9
+    },
+    {
+      "dimension": "Nutzungsart (Mehrfachnennung)",
+      "kategorie": "Infrastruktur/Energie",
+      "anzahl": 13,
+      "anteil_prozent": 0.5
+    },
+    {
+      "dimension": "Stadt im Profil (Stadt, Region oder Bundesland)",
+      "kategorie": "Köln",
+      "anzahl": 283,
+      "anteil_prozent": 10.5
+    },
+    {
+      "dimension": "Stadt im Profil (Stadt, Region oder Bundesland)",
+      "kategorie": "Düsseldorf",
+      "anzahl": 281,
+      "anteil_prozent": 10.4
+    },
+    {
+      "dimension": "Stadt im Profil (Stadt, Region oder Bundesland)",
+      "kategorie": "München",
+      "anzahl": 272,
+      "anteil_prozent": 10.1
+    },
+    {
+      "dimension": "Stadt im Profil (Stadt, Region oder Bundesland)",
+      "kategorie": "Berlin",
+      "anzahl": 244,
+      "anteil_prozent": 9.1
+    },
+    {
+      "dimension": "Stadt im Profil (Stadt, Region oder Bundesland)",
+      "kategorie": "Stuttgart",
+      "anzahl": 236,
+      "anteil_prozent": 8.8
+    },
+    {
+      "dimension": "Stadt im Profil (Stadt, Region oder Bundesland)",
+      "kategorie": "Bonn",
+      "anzahl": 233,
+      "anteil_prozent": 8.7
+    },
+    {
+      "dimension": "Stadt im Profil (Stadt, Region oder Bundesland)",
+      "kategorie": "Essen",
+      "anzahl": 224,
+      "anteil_prozent": 8.3
+    },
+    {
+      "dimension": "Stadt im Profil (Stadt, Region oder Bundesland)",
+      "kategorie": "Duisburg",
+      "anzahl": 224,
+      "anteil_prozent": 8.3
+    },
+    {
+      "dimension": "Stadt im Profil (Stadt, Region oder Bundesland)",
+      "kategorie": "Münster",
+      "anzahl": 223,
+      "anteil_prozent": 8.3
+    },
+    {
+      "dimension": "Stadt im Profil (Stadt, Region oder Bundesland)",
+      "kategorie": "Dortmund",
+      "anzahl": 221,
+      "anteil_prozent": 8.2
+    },
+    {
+      "dimension": "Stadt im Profil (Stadt, Region oder Bundesland)",
+      "kategorie": "Bochum",
+      "anzahl": 221,
+      "anteil_prozent": 8.2
+    },
+    {
+      "dimension": "Stadt im Profil (Stadt, Region oder Bundesland)",
+      "kategorie": "Aachen",
+      "anzahl": 221,
+      "anteil_prozent": 8.2
+    },
+    {
+      "dimension": "Stadt im Profil (Stadt, Region oder Bundesland)",
+      "kategorie": "Wuppertal",
+      "anzahl": 220,
+      "anteil_prozent": 8.2
+    },
+    {
+      "dimension": "Stadt im Profil (Stadt, Region oder Bundesland)",
+      "kategorie": "Bielefeld",
+      "anzahl": 211,
+      "anteil_prozent": 7.8
+    },
+    {
+      "dimension": "Stadt im Profil (Stadt, Region oder Bundesland)",
+      "kategorie": "Nürnberg",
+      "anzahl": 194,
+      "anteil_prozent": 7.2
+    },
+    {
+      "dimension": "Stadt im Profil (Stadt, Region oder Bundesland)",
+      "kategorie": "Frankfurt",
+      "anzahl": 182,
+      "anteil_prozent": 6.8
+    },
+    {
+      "dimension": "Stadt im Profil (Stadt, Region oder Bundesland)",
+      "kategorie": "Mannheim",
+      "anzahl": 180,
+      "anteil_prozent": 6.7
+    },
+    {
+      "dimension": "Stadt im Profil (Stadt, Region oder Bundesland)",
+      "kategorie": "Karlsruhe",
+      "anzahl": 175,
+      "anteil_prozent": 6.5
+    },
+    {
+      "dimension": "Stadt im Profil (Stadt, Region oder Bundesland)",
+      "kategorie": "Augsburg",
+      "anzahl": 175,
+      "anteil_prozent": 6.5
+    },
+    {
+      "dimension": "Stadt im Profil (Stadt, Region oder Bundesland)",
+      "kategorie": "Regensburg",
+      "anzahl": 174,
+      "anteil_prozent": 6.5
+    },
+    {
+      "dimension": "Stadt im Profil (Stadt, Region oder Bundesland)",
+      "kategorie": "Heidelberg",
+      "anzahl": 172,
+      "anteil_prozent": 6.4
+    },
+    {
+      "dimension": "Stadt im Profil (Stadt, Region oder Bundesland)",
+      "kategorie": "Hamburg",
+      "anzahl": 170,
+      "anteil_prozent": 6.3
+    },
+    {
+      "dimension": "Stadt im Profil (Stadt, Region oder Bundesland)",
+      "kategorie": "Freiburg",
+      "anzahl": 168,
+      "anteil_prozent": 6.2
+    },
+    {
+      "dimension": "Stadt im Profil (Stadt, Region oder Bundesland)",
+      "kategorie": "Leipzig",
+      "anzahl": 136,
+      "anteil_prozent": 5.1
+    },
+    {
+      "dimension": "Stadt im Profil (Stadt, Region oder Bundesland)",
+      "kategorie": "Potsdam",
+      "anzahl": 132,
+      "anteil_prozent": 4.9
+    },
+    {
+      "dimension": "Stadt im Profil (Stadt, Region oder Bundesland)",
+      "kategorie": "Hannover",
+      "anzahl": 113,
+      "anteil_prozent": 4.2
+    },
+    {
+      "dimension": "Stadt im Profil (Stadt, Region oder Bundesland)",
+      "kategorie": "Wiesbaden",
+      "anzahl": 112,
+      "anteil_prozent": 4.2
+    },
+    {
+      "dimension": "Stadt im Profil (Stadt, Region oder Bundesland)",
+      "kategorie": "Dresden",
+      "anzahl": 106,
+      "anteil_prozent": 3.9
+    },
+    {
+      "dimension": "Stadt im Profil (Stadt, Region oder Bundesland)",
+      "kategorie": "Darmstadt",
+      "anzahl": 101,
+      "anteil_prozent": 3.8
+    },
+    {
+      "dimension": "Stadt im Profil (Stadt, Region oder Bundesland)",
+      "kategorie": "Erfurt",
+      "anzahl": 86,
+      "anteil_prozent": 3.2
+    },
+    {
+      "dimension": "Stadt im Profil (Stadt, Region oder Bundesland)",
+      "kategorie": "Braunschweig",
+      "anzahl": 84,
+      "anteil_prozent": 3.1
+    },
+    {
+      "dimension": "Stadt im Profil (Stadt, Region oder Bundesland)",
+      "kategorie": "Mainz",
+      "anzahl": 79,
+      "anteil_prozent": 2.9
+    },
+    {
+      "dimension": "Stadt im Profil (Stadt, Region oder Bundesland)",
+      "kategorie": "Jena",
+      "anzahl": 73,
+      "anteil_prozent": 2.7
+    },
+    {
+      "dimension": "Stadt im Profil (Stadt, Region oder Bundesland)",
+      "kategorie": "Wien",
+      "anzahl": 71,
+      "anteil_prozent": 2.6
+    },
+    {
+      "dimension": "Stadt im Profil (Stadt, Region oder Bundesland)",
+      "kategorie": "Chemnitz",
+      "anzahl": 68,
+      "anteil_prozent": 2.5
+    },
+    {
+      "dimension": "Stadt im Profil (Stadt, Region oder Bundesland)",
+      "kategorie": "Halle",
+      "anzahl": 67,
+      "anteil_prozent": 2.5
+    },
+    {
+      "dimension": "Stadt im Profil (Stadt, Region oder Bundesland)",
+      "kategorie": "Magdeburg",
+      "anzahl": 65,
+      "anteil_prozent": 2.4
+    },
+    {
+      "dimension": "Stadt im Profil (Stadt, Region oder Bundesland)",
+      "kategorie": "Rostock",
+      "anzahl": 61,
+      "anteil_prozent": 2.3
+    },
+    {
+      "dimension": "Stadt im Profil (Stadt, Region oder Bundesland)",
+      "kategorie": "Bremen",
+      "anzahl": 54,
+      "anteil_prozent": 2.0
+    },
+    {
+      "dimension": "Stadt im Profil (Stadt, Region oder Bundesland)",
+      "kategorie": "Kiel",
+      "anzahl": 52,
+      "anteil_prozent": 1.9
+    },
+    {
+      "dimension": "Stadt im Profil (Stadt, Region oder Bundesland)",
+      "kategorie": "Lübeck",
+      "anzahl": 46,
+      "anteil_prozent": 1.7
+    },
+    {
+      "dimension": "Stadt im Profil (Stadt, Region oder Bundesland)",
+      "kategorie": "Graz",
+      "anzahl": 22,
+      "anteil_prozent": 0.8
+    },
+    {
+      "dimension": "Stadt im Profil (Stadt, Region oder Bundesland)",
+      "kategorie": "Zürich",
+      "anzahl": 20,
+      "anteil_prozent": 0.7
+    },
+    {
+      "dimension": "Stadt im Profil (Stadt, Region oder Bundesland)",
+      "kategorie": "Linz",
+      "anzahl": 12,
+      "anteil_prozent": 0.4
+    },
+    {
+      "dimension": "Stadt im Profil (Stadt, Region oder Bundesland)",
+      "kategorie": "Salzburg",
+      "anzahl": 7,
+      "anteil_prozent": 0.3
+    },
+    {
+      "dimension": "Stadt im Profil (Stadt, Region oder Bundesland)",
+      "kategorie": "Bern",
+      "anzahl": 6,
+      "anteil_prozent": 0.2
+    },
+    {
+      "dimension": "Stadt im Profil (Stadt, Region oder Bundesland)",
+      "kategorie": "Basel",
+      "anzahl": 5,
+      "anteil_prozent": 0.2
+    },
+    {
+      "dimension": "Mindestvolumen je Objekt",
+      "kategorie": "unter 1 Mio. €",
+      "anzahl": 53,
+      "anteil_prozent": 2.0
+    },
+    {
+      "dimension": "Mindestvolumen je Objekt",
+      "kategorie": "1 bis unter 5 Mio. €",
+      "anzahl": 118,
+      "anteil_prozent": 4.4
+    },
+    {
+      "dimension": "Mindestvolumen je Objekt",
+      "kategorie": "5 bis unter 10 Mio. €",
+      "anzahl": 59,
+      "anteil_prozent": 2.2
+    },
+    {
+      "dimension": "Mindestvolumen je Objekt",
+      "kategorie": "10 bis unter 25 Mio. €",
+      "anzahl": 81,
+      "anteil_prozent": 3.0
+    },
+    {
+      "dimension": "Mindestvolumen je Objekt",
+      "kategorie": "25 Mio. € und mehr",
+      "anzahl": 10,
+      "anteil_prozent": 0.4
+    },
+    {
+      "dimension": "Firmensitz",
+      "kategorie": "Deutschland",
+      "anzahl": 2129,
+      "anteil_prozent": 79.1
+    },
+    {
+      "dimension": "Firmensitz",
+      "kategorie": "Österreich",
+      "anzahl": 294,
+      "anteil_prozent": 10.9
+    },
+    {
+      "dimension": "Firmensitz",
+      "kategorie": "Schweiz",
+      "anzahl": 131,
+      "anteil_prozent": 4.9
+    },
+    {
+      "dimension": "Firmensitz",
+      "kategorie": "anderes Land",
+      "anzahl": 85,
+      "anteil_prozent": 3.2
+    },
+    {
+      "dimension": "Firmensitz",
+      "kategorie": "unbekannt",
+      "anzahl": 42,
+      "anteil_prozent": 1.6
+    },
+    {
+      "dimension": "Firmensitz",
+      "kategorie": "Luxemburg",
+      "anzahl": 12,
+      "anteil_prozent": 0.4
+    }
+  ]
+}

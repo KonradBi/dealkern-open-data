@@ -1,0 +1,28 @@
+{
+  "title": "Öffentlich kommunizierte Ankaufsprofile in DACH: deskriptive Bestandsauswertung Oktober 2026",
+  "upload_type": "dataset",
+  "description": "<p>Deskriptive Auswertung von 2.693 im DealKern-Bestand erfassten, öffentlich kommunizierten Ankaufsprofilen mit Erhebungsstand Oktober 2026. Der Datensatz enthält 85 Aggregatzeilen und keine einzelnen Investorennamen oder Kontaktdaten. Er ist weder eine Vollerhebung noch eine Zufallsstichprobe und misst keine Transaktionen oder aktuelle Investitionsnachfrage. Methodik und Interessenkonflikt sind im beigefügten Bericht dokumentiert. Veröffentlichung ohne Peer Review.</p>",
+  "creators": [
+    {
+      "name": "DealKern-Redaktion",
+      "affiliation": "Creststone Advisory LLC"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "publication_date": "2026-11-03",
+  "version": "1.0.0",
+  "keywords": [
+    "Ankaufsprofile",
+    "Immobilieninvestoren",
+    "DACH",
+    "Aggregatdaten",
+    "deskriptive Statistik"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://dealkern.com/marktreport-2026",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

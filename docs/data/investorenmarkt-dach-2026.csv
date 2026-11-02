@@ -1,0 +1,86 @@
+dimension,kategorie,anzahl,anteil_prozent
+"gesamt","Investoren mit Ankaufsprofil",2693,100.0
+"gesamt","mit belegten Ankäufen",916,34.0
+"gesamt","mit Preisspanne im Profil",385,14.3
+"gesamt","mit eigener Ankaufs-Adresse",274,10.2
+"Investorentyp","Wohnungsunternehmen",850,31.6
+"Investorentyp","Projektentwickler",651,24.2
+"Investorentyp","Institutioneller Anleger",314,11.7
+"Investorentyp","Investment Manager / KVG",275,10.2
+"Investorentyp","Bestandshalter",258,9.6
+"Investorentyp","Investor",166,6.2
+"Investorentyp","Direktankäufer",97,3.6
+"Investorentyp","Immobilien-AG",44,1.6
+"Investorentyp","Family Office",38,1.4
+"Nutzungsart (Mehrfachnennung)","Wohnen",1984,73.7
+"Nutzungsart (Mehrfachnennung)","Grundstücke/Projektentwicklung",713,26.5
+"Nutzungsart (Mehrfachnennung)","Gewerbe/Unternehmensimmobilien",624,23.2
+"Nutzungsart (Mehrfachnennung)","Büro",398,14.8
+"Nutzungsart (Mehrfachnennung)","Mixed-Use",317,11.8
+"Nutzungsart (Mehrfachnennung)","Einzelhandel",290,10.8
+"Nutzungsart (Mehrfachnennung)","Logistik/Light Industrial",268,10.0
+"Nutzungsart (Mehrfachnennung)","Hotel",203,7.5
+"Nutzungsart (Mehrfachnennung)","Gesundheit/Pflege",161,6.0
+"Nutzungsart (Mehrfachnennung)","Spezialimmobilien",107,4.0
+"Nutzungsart (Mehrfachnennung)","Studentenwohnen",93,3.5
+"Nutzungsart (Mehrfachnennung)","Micro-/Serviced Apartments",79,2.9
+"Nutzungsart (Mehrfachnennung)","Parken",51,1.9
+"Nutzungsart (Mehrfachnennung)","Infrastruktur/Energie",13,0.5
+"Stadt im Profil (Stadt, Region oder Bundesland)","Köln",283,10.5
+"Stadt im Profil (Stadt, Region oder Bundesland)","Düsseldorf",281,10.4
+"Stadt im Profil (Stadt, Region oder Bundesland)","München",272,10.1
+"Stadt im Profil (Stadt, Region oder Bundesland)","Berlin",244,9.1
+"Stadt im Profil (Stadt, Region oder Bundesland)","Stuttgart",236,8.8
+"Stadt im Profil (Stadt, Region oder Bundesland)","Bonn",233,8.7
+"Stadt im Profil (Stadt, Region oder Bundesland)","Essen",224,8.3
+"Stadt im Profil (Stadt, Region oder Bundesland)","Duisburg",224,8.3
+"Stadt im Profil (Stadt, Region oder Bundesland)","Münster",223,8.3
+"Stadt im Profil (Stadt, Region oder Bundesland)","Dortmund",221,8.2
+"Stadt im Profil (Stadt, Region oder Bundesland)","Bochum",221,8.2
+"Stadt im Profil (Stadt, Region oder Bundesland)","Aachen",221,8.2
+"Stadt im Profil (Stadt, Region oder Bundesland)","Wuppertal",220,8.2
+"Stadt im Profil (Stadt, Region oder Bundesland)","Bielefeld",211,7.8
+"Stadt im Profil (Stadt, Region oder Bundesland)","Nürnberg",194,7.2
+"Stadt im Profil (Stadt, Region oder Bundesland)","Frankfurt",182,6.8
+"Stadt im Profil (Stadt, Region oder Bundesland)","Mannheim",180,6.7
+"Stadt im Profil (Stadt, Region oder Bundesland)","Karlsruhe",175,6.5
+"Stadt im Profil (Stadt, Region oder Bundesland)","Augsburg",175,6.5
+"Stadt im Profil (Stadt, Region oder Bundesland)","Regensburg",174,6.5
+"Stadt im Profil (Stadt, Region oder Bundesland)","Heidelberg",172,6.4
+"Stadt im Profil (Stadt, Region oder Bundesland)","Hamburg",170,6.3
+"Stadt im Profil (Stadt, Region oder Bundesland)","Freiburg",168,6.2
+"Stadt im Profil (Stadt, Region oder Bundesland)","Leipzig",136,5.1
+"Stadt im Profil (Stadt, Region oder Bundesland)","Potsdam",132,4.9
+"Stadt im Profil (Stadt, Region oder Bundesland)","Hannover",113,4.2
+"Stadt im Profil (Stadt, Region oder Bundesland)","Wiesbaden",112,4.2
+"Stadt im Profil (Stadt, Region oder Bundesland)","Dresden",106,3.9
+"Stadt im Profil (Stadt, Region oder Bundesland)","Darmstadt",101,3.8
+"Stadt im Profil (Stadt, Region oder Bundesland)","Erfurt",86,3.2
+"Stadt im Profil (Stadt, Region oder Bundesland)","Braunschweig",84,3.1
+"Stadt im Profil (Stadt, Region oder Bundesland)","Mainz",79,2.9
+"Stadt im Profil (Stadt, Region oder Bundesland)","Jena",73,2.7
+"Stadt im Profil (Stadt, Region oder Bundesland)","Wien",71,2.6
+"Stadt im Profil (Stadt, Region oder Bundesland)","Chemnitz",68,2.5
+"Stadt im Profil (Stadt, Region oder Bundesland)","Halle",67,2.5
+"Stadt im Profil (Stadt, Region oder Bundesland)","Magdeburg",65,2.4
+"Stadt im Profil (Stadt, Region oder Bundesland)","Rostock",61,2.3
+"Stadt im Profil (Stadt, Region oder Bundesland)","Bremen",54,2.0
+"Stadt im Profil (Stadt, Region oder Bundesland)","Kiel",52,1.9
+"Stadt im Profil (Stadt, Region oder Bundesland)","Lübeck",46,1.7
+"Stadt im Profil (Stadt, Region oder Bundesland)","Graz",22,0.8
+"Stadt im Profil (Stadt, Region oder Bundesland)","Zürich",20,0.7
+"Stadt im Profil (Stadt, Region oder Bundesland)","Linz",12,0.4
+"Stadt im Profil (Stadt, Region oder Bundesland)","Salzburg",7,0.3
+"Stadt im Profil (Stadt, Region oder Bundesland)","Bern",6,0.2
+"Stadt im Profil (Stadt, Region oder Bundesland)","Basel",5,0.2
+"Mindestvolumen je Objekt","unter 1 Mio. €",53,2.0
+"Mindestvolumen je Objekt","1 bis unter 5 Mio. €",118,4.4
+"Mindestvolumen je Objekt","5 bis unter 10 Mio. €",59,2.2
+"Mindestvolumen je Objekt","10 bis unter 25 Mio. €",81,3.0
+"Mindestvolumen je Objekt","25 Mio. € und mehr",10,0.4
+"Firmensitz","Deutschland",2129,79.1
+"Firmensitz","Österreich",294,10.9
+"Firmensitz","Schweiz",131,4.9
+"Firmensitz","anderes Land",85,3.2
+"Firmensitz","unbekannt",42,1.6
+"Firmensitz","Luxemburg",12,0.4
